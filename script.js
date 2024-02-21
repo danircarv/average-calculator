@@ -10,9 +10,24 @@ const students = [
     nota2: 6,
   },
   {
-    name: "John Dias",
-    nota1: 0,
-    nota2: 1.3,
+    name: "Ana",
+    nota1: 7,
+    nota2: 8,
+  },
+  {
+    name: "Bruno",
+    nota1: 9,
+    nota2: 5,
+  },
+  {
+    name: "Clara",
+    nota1: 4,
+    nota2: 10,
+  },
+  {
+    name: "Daniel",
+    nota1: 2,
+    nota2: 3,
   },
 ];
 
