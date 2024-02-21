@@ -21,7 +21,7 @@ function average(nota1, nota2) {
 }
 
 function printStudentAvg(student) {
-  if (average(student.nota1, student.nota2) > 5) {
+  if (average(student.nota1, student.nota2) > 7) {
     return `
     A média do aluno(a) ${student.name} é : ${average(
       student.nota1,
